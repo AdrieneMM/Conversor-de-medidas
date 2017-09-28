@@ -1,9 +1,9 @@
 # Conversor-de-medidas
 Grupo:
-Adriene Mariana Martins
-Cristhian Cougo Ferreira 
-Felipe Sarto
-Matheus Nascimento
+Adriene Mariana Martins,
+Cristhian Cougo Ferreira,
+Felipe Sarto,
+Matheus Nascimento.
 
 Descrição do Software: O aplicativo a ser desenvolvido tem como objetivo, por meio de uma interface simples e amigável, converter unidades de medidas de massa, comprimento, volume, temperatura e velocidade. 
 
